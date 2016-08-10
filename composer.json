@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lavoiesl/php-benchmark": "^1.4"
+    }
+}
